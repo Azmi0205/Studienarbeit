@@ -1,0 +1,7 @@
+batch_name,timestamp,fpa_temp_c,num_frames
+HotSpot_Center,2026-07-05 17:11:51,41.9,50
+HotSpot_Side,2026-07-05 17:13:32,41.9,50
+HotSpot_Top,2026-07-05 17:14:36,42.0,50
+HotSpot_Corner,2026-07-05 17:15:23,42.0,50
+batch_01_ffc,2026-07-05 17:36:21,40.5,50
+batch_02_noffc,2026-07-05 17:36:38,40.4,50
