@@ -1,0 +1,6 @@
+Number of images processed: 50
+Image shape: (256, 320)
+Data type: uint16
+Highest average pixel count: 31610
+Lowest average pixel count: 31541
+Average of all average pixel counts: 31578.7332

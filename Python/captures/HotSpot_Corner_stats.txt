@@ -1,0 +1,5 @@
+Number of images processed: 50
+Image shape: (256, 320)
+Highest average pixel value: 31345.6200
+Lowest average pixel value: 29896.6800
+Average of all average pixels: 29970.9024

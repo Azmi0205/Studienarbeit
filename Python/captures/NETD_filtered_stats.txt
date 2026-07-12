@@ -1,0 +1,10 @@
+Filter method: iqr
+Lower bound: 14.8080 mK
+Upper bound: 80.4751 mK
+Dead/invalid pixels excluded before filtering: 0
+Outliers removed: 3150
+Remaining valid pixels: 78770
+
+Before filtering - mean: 48.5043 mK, median: 46.9676 mK, std: 16.1336 mK
+After filtering  - mean: 47.0217 mK, median: 46.2838 mK, std: 14.1231 mK
+After filtering  - min: 14.8203 mK, max: 80.4561 mK
